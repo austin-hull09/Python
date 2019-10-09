@@ -1,0 +1,16 @@
+Player                   Batting Average
+----------------------------------------
+Cody Bellinger(1B)       0.000 (0 for 0)
+Yasiel Puig(RF)          0.000 (0 for 0)
+Corey Seager(SS)         0.000 (0 for 0)
+Chris Taylor(CF)         0.000 (0 for 0)
+Justin Turner(3B)        0.000 (0 for 0)
+
+Player                   Batting Average
+----------------------------------------
+Cody Bellinger(1B)       0.133 (2 for 15)
+Yasiel Puig(RF)          0.125 (2 for 16)
+Corey Seager(SS)         0.333 (5 for 15)
+Chris Taylor(CF)         0.231 (3 for 13)
+Justin Turner(3B)        0.125 (2 for 16)
+
